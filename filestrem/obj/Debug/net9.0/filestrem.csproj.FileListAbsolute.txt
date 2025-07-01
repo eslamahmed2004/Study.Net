@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\filestrem\bin\Debug\net9.0\filestrem.exe
+C:\C# and .NET\thestart\filestrem\bin\Debug\net9.0\filestrem.deps.json
+C:\C# and .NET\thestart\filestrem\bin\Debug\net9.0\filestrem.runtimeconfig.json
+C:\C# and .NET\thestart\filestrem\bin\Debug\net9.0\filestrem.dll
+C:\C# and .NET\thestart\filestrem\bin\Debug\net9.0\filestrem.pdb
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.AssemblyInfo.cs
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.dll
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\refint\filestrem.dll
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.pdb
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.genruntimeconfig.cache
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\ref\filestrem.dll

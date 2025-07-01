@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\decoreter\bin\Debug\net9.0\decoreter.exe
+C:\C# and .NET\thestart\decoreter\bin\Debug\net9.0\decoreter.deps.json
+C:\C# and .NET\thestart\decoreter\bin\Debug\net9.0\decoreter.runtimeconfig.json
+C:\C# and .NET\thestart\decoreter\bin\Debug\net9.0\decoreter.dll
+C:\C# and .NET\thestart\decoreter\bin\Debug\net9.0\decoreter.pdb
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.AssemblyInfo.cs
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.dll
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\refint\decoreter.dll
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.pdb
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.genruntimeconfig.cache
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\ref\decoreter.dll

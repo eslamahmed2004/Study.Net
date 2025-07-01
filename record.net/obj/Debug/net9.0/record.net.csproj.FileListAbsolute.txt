@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\record.net\bin\Debug\net9.0\record.net.exe
+C:\C# and .NET\thestart\record.net\bin\Debug\net9.0\record.net.deps.json
+C:\C# and .NET\thestart\record.net\bin\Debug\net9.0\record.net.runtimeconfig.json
+C:\C# and .NET\thestart\record.net\bin\Debug\net9.0\record.net.dll
+C:\C# and .NET\thestart\record.net\bin\Debug\net9.0\record.net.pdb
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.AssemblyInfo.cs
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.dll
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\refint\record.net.dll
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.pdb
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\record.net.genruntimeconfig.cache
+C:\C# and .NET\thestart\record.net\obj\Debug\net9.0\ref\record.net.dll

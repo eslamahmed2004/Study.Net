@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\thestart.project1\bin\Debug\net9.0\thestart.project1.exe
+C:\C# and .NET\thestart\thestart.project1\bin\Debug\net9.0\thestart.project1.deps.json
+C:\C# and .NET\thestart\thestart.project1\bin\Debug\net9.0\thestart.project1.runtimeconfig.json
+C:\C# and .NET\thestart\thestart.project1\bin\Debug\net9.0\thestart.project1.dll
+C:\C# and .NET\thestart\thestart.project1\bin\Debug\net9.0\thestart.project1.pdb
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.AssemblyInfo.cs
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.dll
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\refint\thestart.project1.dll
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.pdb
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.genruntimeconfig.cache
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\ref\thestart.project1.dll

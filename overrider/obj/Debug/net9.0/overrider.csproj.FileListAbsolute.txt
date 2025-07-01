@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\overrider\bin\Debug\net9.0\overrider.exe
+C:\C# and .NET\thestart\overrider\bin\Debug\net9.0\overrider.deps.json
+C:\C# and .NET\thestart\overrider\bin\Debug\net9.0\overrider.runtimeconfig.json
+C:\C# and .NET\thestart\overrider\bin\Debug\net9.0\overrider.dll
+C:\C# and .NET\thestart\overrider\bin\Debug\net9.0\overrider.pdb
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.AssemblyInfo.cs
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.dll
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\refint\overrider.dll
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.pdb
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\overrider.genruntimeconfig.cache
+C:\C# and .NET\thestart\overrider\obj\Debug\net9.0\ref\overrider.dll

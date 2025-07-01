@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\newdelegate\bin\Debug\net9.0\newdelegate.exe
+C:\C# and .NET\thestart\newdelegate\bin\Debug\net9.0\newdelegate.deps.json
+C:\C# and .NET\thestart\newdelegate\bin\Debug\net9.0\newdelegate.runtimeconfig.json
+C:\C# and .NET\thestart\newdelegate\bin\Debug\net9.0\newdelegate.dll
+C:\C# and .NET\thestart\newdelegate\bin\Debug\net9.0\newdelegate.pdb
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.AssemblyInfo.cs
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.dll
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\refint\newdelegate.dll
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.pdb
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.genruntimeconfig.cache
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\ref\newdelegate.dll

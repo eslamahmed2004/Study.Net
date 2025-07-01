@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\Records\bin\Debug\net9.0\Records.exe
+C:\C# and .NET\thestart\Records\bin\Debug\net9.0\Records.deps.json
+C:\C# and .NET\thestart\Records\bin\Debug\net9.0\Records.runtimeconfig.json
+C:\C# and .NET\thestart\Records\bin\Debug\net9.0\Records.dll
+C:\C# and .NET\thestart\Records\bin\Debug\net9.0\Records.pdb
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.AssemblyInfo.cs
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.dll
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\refint\Records.dll
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.pdb
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\Records.genruntimeconfig.cache
+C:\C# and .NET\thestart\Records\obj\Debug\net9.0\ref\Records.dll

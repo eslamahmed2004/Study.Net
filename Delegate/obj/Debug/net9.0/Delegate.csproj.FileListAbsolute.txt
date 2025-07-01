@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\C# and .NET\thestart\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\C# and .NET\thestart\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\C# and .NET\thestart\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\C# and .NET\thestart\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\ref\Delegate.dll

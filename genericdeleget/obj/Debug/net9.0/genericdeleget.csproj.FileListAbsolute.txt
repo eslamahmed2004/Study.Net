@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\genericdeleget\bin\Debug\net9.0\genericdeleget.exe
+C:\C# and .NET\thestart\genericdeleget\bin\Debug\net9.0\genericdeleget.deps.json
+C:\C# and .NET\thestart\genericdeleget\bin\Debug\net9.0\genericdeleget.runtimeconfig.json
+C:\C# and .NET\thestart\genericdeleget\bin\Debug\net9.0\genericdeleget.dll
+C:\C# and .NET\thestart\genericdeleget\bin\Debug\net9.0\genericdeleget.pdb
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.AssemblyInfo.cs
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.dll
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\refint\genericdeleget.dll
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.pdb
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.genruntimeconfig.cache
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\ref\genericdeleget.dll

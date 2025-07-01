@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# and .NET\\thestart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA7B39A-F55B-4B0E-95C9-8EC1225780F5}|record.net\\record.net.csproj|c:\\c# and .net\\thestart\\record.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA7B39A-F55B-4B0E-95C9-8EC1225780F5}|record.net\\record.net.csproj|solutionrelative:record.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDB9BD6-3A86-4BF8-B65E-C19503C52FBA}|Records\\Records.csproj|c:\\c# and .net\\thestart\\records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDB9BD6-3A86-4BF8-B65E-C19503C52FBA}|Records\\Records.csproj|solutionrelative:records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5FA4DE-4153-4FC5-8D4D-3DFB3916609E}|Generic\\Generic.csproj|c:\\c# and .net\\thestart\\generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5FA4DE-4153-4FC5-8D4D-3DFB3916609E}|Generic\\Generic.csproj|solutionrelative:generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F764E5-CD3C-4957-BD27-7AE710AED587}|decoreter\\decoreter.csproj|c:\\c# and .net\\thestart\\decoreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F764E5-CD3C-4957-BD27-7AE710AED587}|decoreter\\decoreter.csproj|solutionrelative:decoreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39CF3A8-68CF-42E3-9C50-23D9E1BF9360}|overrider\\overrider.csproj|c:\\c# and .net\\thestart\\overrider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39CF3A8-68CF-42E3-9C50-23D9E1BF9360}|overrider\\overrider.csproj|solutionrelative:overrider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A83FCD-8551-4F22-86E3-CCB308599A09}|structrecord\\structrecord.csproj|c:\\c# and .net\\thestart\\structrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A83FCD-8551-4F22-86E3-CCB308599A09}|structrecord\\structrecord.csproj|solutionrelative:structrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DF810-0940-4E89-90CF-C4F488F50865}|filestrem\\filestrem.csproj|c:\\c# and .net\\thestart\\filestrem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DF810-0940-4E89-90CF-C4F488F50865}|filestrem\\filestrem.csproj|solutionrelative:filestrem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05DE1D0-EF98-4C58-AE58-4809A099E1EC}|thestart.project1\\thestart.project1.csproj|c:\\c# and .net\\thestart\\thestart.project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05DE1D0-EF98-4C58-AE58-4809A099E1EC}|thestart.project1\\thestart.project1.csproj|solutionrelative:thestart.project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05DE1D0-EF98-4C58-AE58-4809A099E1EC}|thestart.project1\\thestart.project1.csproj|c:\\c# and .net\\thestart\\thestart.project1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05DE1D0-EF98-4C58-AE58-4809A099E1EC}|thestart.project1\\thestart.project1.csproj|solutionrelative:thestart.project1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 249,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Generic\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\Generic\\Program.cs",
+              "RelativeToolTip": "Generic\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:50:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\structrecord\\Program.cs",
+              "RelativeDocumentMoniker": "structrecord\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\structrecord\\Program.cs",
+              "RelativeToolTip": "structrecord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:25:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\record.net\\Program.cs",
+              "RelativeDocumentMoniker": "record.net\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\record.net\\Program.cs",
+              "RelativeToolTip": "record.net\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:36:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\overrider\\Program.cs",
+              "RelativeDocumentMoniker": "overrider\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\overrider\\Program.cs",
+              "RelativeToolTip": "overrider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:30:28.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\Records\\Program.cs",
+              "RelativeDocumentMoniker": "Records\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\Records\\Program.cs",
+              "RelativeToolTip": "Records\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:37:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\decoreter\\Program.cs",
+              "RelativeDocumentMoniker": "decoreter\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\decoreter\\Program.cs",
+              "RelativeToolTip": "decoreter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:36:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\filestrem\\Program.cs",
+              "RelativeDocumentMoniker": "filestrem\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\filestrem\\Program.cs",
+              "RelativeToolTip": "filestrem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:49:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\thestart.project1\\Car.cs",
+              "RelativeDocumentMoniker": "thestart.project1\\Car.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\thestart.project1\\Car.cs",
+              "RelativeToolTip": "thestart.project1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:06:51.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# and .NET\\thestart\\thestart.project1\\Program.cs",
+              "RelativeDocumentMoniker": "thestart.project1\\Program.cs",
+              "ToolTip": "C:\\C# and .NET\\thestart\\thestart.project1\\Program.cs",
+              "RelativeToolTip": "thestart.project1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:48:56.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

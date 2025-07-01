@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\structrecord\bin\Debug\net9.0\structrecord.exe
+C:\C# and .NET\thestart\structrecord\bin\Debug\net9.0\structrecord.deps.json
+C:\C# and .NET\thestart\structrecord\bin\Debug\net9.0\structrecord.runtimeconfig.json
+C:\C# and .NET\thestart\structrecord\bin\Debug\net9.0\structrecord.dll
+C:\C# and .NET\thestart\structrecord\bin\Debug\net9.0\structrecord.pdb
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.AssemblyInfo.cs
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.dll
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\refint\structrecord.dll
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.pdb
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.genruntimeconfig.cache
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\ref\structrecord.dll

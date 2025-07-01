@@ -1,0 +1,14 @@
+C:\C# and .NET\thestart\Multdeleget\bin\Debug\net9.0\Multdeleget.exe
+C:\C# and .NET\thestart\Multdeleget\bin\Debug\net9.0\Multdeleget.deps.json
+C:\C# and .NET\thestart\Multdeleget\bin\Debug\net9.0\Multdeleget.runtimeconfig.json
+C:\C# and .NET\thestart\Multdeleget\bin\Debug\net9.0\Multdeleget.dll
+C:\C# and .NET\thestart\Multdeleget\bin\Debug\net9.0\Multdeleget.pdb
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.AssemblyInfo.cs
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.dll
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\refint\Multdeleget.dll
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.pdb
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.genruntimeconfig.cache
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\ref\Multdeleget.dll
