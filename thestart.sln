@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genericdeleget", "genericde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{7CB87D8E-55B8-4600-9A7F-8F039C882CB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assemblies", "Assemblies\Assemblies.csproj", "{F28BFC2D-C08A-43DA-A098-8746E0A77C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoassemblyClasslib", "demoassemblyClasslib\demoassemblyClasslib.csproj", "{AFF97581-2719-4133-AEF1-FD90C2623EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{7CB87D8E-55B8-4600-9A7F-8F039C882CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CB87D8E-55B8-4600-9A7F-8F039C882CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CB87D8E-55B8-4600-9A7F-8F039C882CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28BFC2D-C08A-43DA-A098-8746E0A77C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28BFC2D-C08A-43DA-A098-8746E0A77C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28BFC2D-C08A-43DA-A098-8746E0A77C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28BFC2D-C08A-43DA-A098-8746E0A77C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF97581-2719-4133-AEF1-FD90C2623EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF97581-2719-4133-AEF1-FD90C2623EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF97581-2719-4133-AEF1-FD90C2623EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF97581-2719-4133-AEF1-FD90C2623EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

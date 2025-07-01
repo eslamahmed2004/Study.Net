@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Assemblies/1.0.0": {
+        "dependencies": {
+          "demoassemblyClasslib": "1.0.0"
+        },
+        "runtime": {
+          "Assemblies.dll": {}
+        }
+      },
+      "demoassemblyClasslib/1.0.0": {
+        "runtime": {
+          "demoassemblyClasslib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assemblies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "demoassemblyClasslib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

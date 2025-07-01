@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\refint\decoreter.dll
 C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.pdb
 C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.genruntimeconfig.cache
 C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\ref\decoreter.dll
+C:\C# and .NET\thestart\decoreter\obj\Debug\net9.0\decoreter.sourcelink.json

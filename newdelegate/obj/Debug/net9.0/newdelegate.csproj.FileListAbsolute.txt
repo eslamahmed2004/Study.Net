@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\refint\newdelegate.dll
 C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.pdb
 C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.genruntimeconfig.cache
 C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\ref\newdelegate.dll
+C:\C# and .NET\thestart\newdelegate\obj\Debug\net9.0\newdelegate.sourcelink.json

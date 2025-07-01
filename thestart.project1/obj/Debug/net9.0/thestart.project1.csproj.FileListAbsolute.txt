@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\refint\thestart.proje
 C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.pdb
 C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.genruntimeconfig.cache
 C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\ref\thestart.project1.dll
+C:\C# and .NET\thestart\thestart.project1\obj\Debug\net9.0\thestart.project1.sourcelink.json

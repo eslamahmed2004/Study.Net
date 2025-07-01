@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\Event\obj\Debug\net9.0\refint\Event.dll
 C:\C# and .NET\thestart\Event\obj\Debug\net9.0\Event.pdb
 C:\C# and .NET\thestart\Event\obj\Debug\net9.0\Event.genruntimeconfig.cache
 C:\C# and .NET\thestart\Event\obj\Debug\net9.0\ref\Event.dll
+C:\C# and .NET\thestart\Event\obj\Debug\net9.0\Event.sourcelink.json

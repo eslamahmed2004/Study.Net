@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\Generic\obj\Debug\net9.0\refint\Generic.dll
 C:\C# and .NET\thestart\Generic\obj\Debug\net9.0\Generic.pdb
 C:\C# and .NET\thestart\Generic\obj\Debug\net9.0\Generic.genruntimeconfig.cache
 C:\C# and .NET\thestart\Generic\obj\Debug\net9.0\ref\Generic.dll
+C:\C# and .NET\thestart\Generic\obj\Debug\net9.0\Generic.sourcelink.json

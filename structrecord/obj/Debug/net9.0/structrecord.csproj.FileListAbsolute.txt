@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\refint\structrecord.dll
 C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.pdb
 C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.genruntimeconfig.cache
 C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\ref\structrecord.dll
+C:\C# and .NET\thestart\structrecord\obj\Debug\net9.0\structrecord.sourcelink.json

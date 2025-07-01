@@ -1,0 +1,12 @@
+C:\C# and .NET\thestart\demoassemblyClasslib\bin\Debug\net9.0\demoassemblyClasslib.deps.json
+C:\C# and .NET\thestart\demoassemblyClasslib\bin\Debug\net9.0\demoassemblyClasslib.dll
+C:\C# and .NET\thestart\demoassemblyClasslib\bin\Debug\net9.0\demoassemblyClasslib.pdb
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.AssemblyInfoInputs.cache
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.AssemblyInfo.cs
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.csproj.CoreCompileInputs.cache
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.sourcelink.json
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.dll
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\refint\demoassemblyClasslib.dll
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\demoassemblyClasslib.pdb
+C:\C# and .NET\thestart\demoassemblyClasslib\obj\Debug\net9.0\ref\demoassemblyClasslib.dll

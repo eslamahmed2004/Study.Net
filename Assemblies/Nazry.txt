@@ -1,0 +1,62 @@
+﻿// this to creat  file .il and trans file .il to .dll and .exe ========> important from cmd as administrator
+    
+//     
+// C:\Windows\System32>cd/
+//
+//     C:\>cd Users\DELL\Desktop\demo
+//
+// C:\Users\DELL\Desktop\demo>ildasm
+//
+// C:\Users\DELL\Desktop\demo>il dasm Assemblies.dll
+// 'il' is not recognized as an internal or external command,
+// operable program or batch file.
+//
+// C:\Users\DELL\Desktop\demo>ildasm Assemblies.dll
+//
+// C:\Users\DELL\Desktop\demo>ilasm Assemblies.il /dll/exe
+//
+// Microsoft (R) .NET Framework IL Assembler.  Version 4.8.9105.0
+// Copyright (c) Microsoft Corporation.  All rights reserved.
+// Assembling 'Assemblies.il'  to DLL --> 'Assemblies.dll'
+// Source file is UTF-8
+//
+// Assembled method Assemblies.Program::Main
+// Assembled method Assemblies.Program::.ctor
+// Creating PE file
+//
+// Emitting classes:
+// Class 1:        Assemblies.Program
+//
+// Emitting fields and methods:
+// Global
+// Class 1 Methods: 2;
+//
+// Emitting events and properties:
+// Global
+// Class 1
+// Writing PE file
+// Operation completed successfully
+//
+// C:\Users\DELL\Desktop\demo>ilasm Assemblies.il /dll /exe
+//
+// Microsoft (R) .NET Framework IL Assembler.  Version 4.8.9105.0
+// Copyright (c) Microsoft Corporation.  All rights reserved.
+// Assembling 'Assemblies.il'  to EXE --> 'Assemblies.exe'
+// Source file is UTF-8
+//
+// Assembled method Assemblies.Program::Main
+// Assembled method Assemblies.Program::.ctor
+// Creating PE file
+//
+// Emitting classes:
+// Class 1:        Assemblies.Program
+//
+// Emitting fields and methods:
+// Global
+// Class 1 Methods: 2;
+//
+// Emitting events and properties:
+// Global
+// Class 1
+// Writing PE file
+// Operation completed successfully

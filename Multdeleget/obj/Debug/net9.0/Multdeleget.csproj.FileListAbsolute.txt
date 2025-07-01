@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\refint\Multdeleget.dll
 C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.pdb
 C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.genruntimeconfig.cache
 C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\ref\Multdeleget.dll
+C:\C# and .NET\thestart\Multdeleget\obj\Debug\net9.0\Multdeleget.sourcelink.json

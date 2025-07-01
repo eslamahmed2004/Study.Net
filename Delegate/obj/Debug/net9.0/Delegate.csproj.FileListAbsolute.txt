@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\refint\Delegate.dll
 C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.pdb
 C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
 C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\ref\Delegate.dll
+C:\C# and .NET\thestart\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json

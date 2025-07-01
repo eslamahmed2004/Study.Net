@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\refint\genericdeleget.dl
 C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.pdb
 C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.genruntimeconfig.cache
 C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\ref\genericdeleget.dll
+C:\C# and .NET\thestart\genericdeleget\obj\Debug\net9.0\genericdeleget.sourcelink.json

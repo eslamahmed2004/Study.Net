@@ -12,3 +12,4 @@ C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\refint\filestrem.dll
 C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.pdb
 C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.genruntimeconfig.cache
 C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\ref\filestrem.dll
+C:\C# and .NET\thestart\filestrem\obj\Debug\net9.0\filestrem.sourcelink.json
