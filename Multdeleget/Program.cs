@@ -13,7 +13,8 @@ public class Program
         var helper = new Retanglehelper();
         ret ret = helper.getarea;
         ret += helper.getprameter;
-        ret += helper.getprameters;
+        ret += helper.getprameters; 
+        
 
         ret(10, 10);
         ReadKey();
