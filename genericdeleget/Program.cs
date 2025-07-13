@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace newdegelet;
     
-public delegate bool Filter<in T>(T number);
+public delegate bool Filter<in T >(T number);
 
 
 public class Program

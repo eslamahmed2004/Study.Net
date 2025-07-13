@@ -10,7 +10,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        var p1 = new point(1, 3);
+        var p1 = new point(2, 3);
         var p2 = new point(2, 3);
         WriteLine(p1);
         WriteLine(p2);

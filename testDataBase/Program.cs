@@ -26,4 +26,4 @@ class Program
             Console.WriteLine($"{reader.GetInt32(0)}\t{reader.GetString(1)}\t{reader.GetInt32(2)}\t{reader.GetString(3)}\t{reader.GetInt32(4)}");
         }
     }
-}
+}       

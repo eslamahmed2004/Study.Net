@@ -16,7 +16,8 @@ public class Program
         var e2 = new Employee(2, 3);
 
         e1.ID = 1;
-        WriteLine(e1.Equals(e2));
+        WriteLine(e1.Equals(e2)); // ==> true because method e7na ely 3menha
+            WriteLine(e1==e2); // ==> false because the class beshawer 3ala el refrance not value
         WriteLine(e1.ID);
         
         ReadKey();
